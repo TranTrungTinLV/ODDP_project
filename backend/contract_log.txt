@@ -1,25 +1,9 @@
-New contract added at 2023-11-22T18:32:02.019Z: {"_id":"655e4921577e627a49a88a15","customerName":"Nguyen Van A","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T18:33:57.079Z: {"_id":"655e4995577e627a49a88a1b","customerName":"Nguyen Van B","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e544705290fd6a6ac71e5","customerName":"Nguyen Van C","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:19:36.709Z: {"_id":"655e544705290fd6a6ac71e5","customerName":"Nguyen Van C","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:30:53.623Z: {"_id":"655e56ed3b4e1067762d0cf3","customerName":"Nguyen Van D","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e56ed3b4e1067762d0cf3","customerName":"Nguyen Van D","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e5876e5a4281d3a314a17","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:37:27.208Z: {"_id":"655e5876e5a4281d3a314a17","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:39:29.782Z: {"_id":"655e58f1ecdab20d66d6f69d","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e58f1ecdab20d66d6f69d","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:43:25.617Z: {"_id":"655e59dd2c63161e7004fe11","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e59dd2c63161e7004fe11","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:46:33.387Z: {"_id":"655e5a992c63161e7004fe18","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added: {"_id":"655e5a992c63161e7004fe18","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:50:02.940Z: {"_id":"655e5b6ae1f29aff98045ddf","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:56:32.604Z: {"_id":"655e5cf0f25f8879b509081b","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:58:13.455Z: {"_id":"655e5d55f5fa6608e9ef9348","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T19:59:37.603Z: {"_id":"655e5da93b55cd423b406cbe","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T20:07:24.954Z: {"_id":"655e5f7c6820e600b8444acd","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T20:08:47.998Z: {"_id":"655e5fcf738a9f96ca65df65","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","__v":0}
-New contract added at 2023-11-22T20:09:14.609Z: {"_id":"655e5feac0ffe8aec7998d49","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112231","__v":0}
-New contract added at 2023-11-22T20:09:21.748Z: {"_id":"655e5ff1c0ffe8aec7998d4d","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112232","__v":0}
-New contract added at 2023-11-22T20:09:23.313Z: {"_id":"655e5ff3c0ffe8aec7998d51","customerName":"Nguyen Van F","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112233","__v":0}
-New contract added at 2023-11-22T20:29:03.694Z: {"_id":"655e648fc0ffe8aec7998d55","customerName":"Nguyen Van RQWQW","yearOfBirth":1985,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112234","__v":0}
-New contract added at 2023-11-23T09:44:45.326Z: {"_id":"655f1f0d8860d1d62ef1ec48","customerName":"Nguyen Van Kiet Lo","yearOfBirth":200,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112317","__v":0}
+New contract added at 2023-11-25T17:42:03.485Z: {"_id":"656231eb2a94db6f283774e6","customerName":"Nguyen Van Kiet Dep Trai Vai Lon","yearOfBirth":200,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112504","__v":0}
+New contract added at 2023-11-25T19:41:30.646Z: {"_id":"65624dead4e77e1a8019c5da","customerName":"Võ Thị Nhật Ánh","yearOfBirth":2002,"ssn":"3312908321321","address":"1333/abc 567","orderCode":"HD2023112519","__v":0}
+New contract added at 2023-11-25T20:21:23.779Z: {"_id":"65625743d4e77e1a8019c674","customerName":"Nguyen Van Kiet Dep Trai Vai Lon","yearOfBirth":200,"ssn":"0123456789","address":"123 Đường ABC, Quận 1, TP.HCM","orderCode":"HD2023112554","__v":0}
+New contract added at 2023-11-25T20:31:00.560Z: {"_id":"656259848bec48b771929bf1","customerName":"","yearOfBirth":null,"ssn":"","address":"","orderCode":"HD2023112567","__v":0}
+New contract added at 2023-11-25T20:31:40.984Z: {"_id":"656259ac8bec48b771929bf8","customerName":"dasda","yearOfBirth":null,"ssn":"","address":"","orderCode":"HD2023112569","__v":0}
+New contract added at 2023-11-25T20:32:17.752Z: {"_id":"656259d18bec48b771929bff","customerName":"","yearOfBirth":null,"ssn":"dasdasdsda","address":"","orderCode":"HD2023112571","__v":0}
+New contract added at 2023-11-25T20:32:22.164Z: {"_id":"656259d68bec48b771929c03","customerName":"","yearOfBirth":null,"ssn":"","address":"dsadsadsa","orderCode":"HD2023112572","__v":0}
+New contract added at 2023-11-25T20:34:16.311Z: {"_id":"65625a488bec48b771929c0a","customerName":"","yearOfBirth":21212,"ssn":"","address":"","orderCode":"HD2023112574","__v":0}
+New contract added at 2023-11-25T20:35:13.533Z: {"_id":"65625a818bec48b771929c10","customerName":"asdsdawd","yearOfBirth":3123212321,"ssn":"dasdasdasd","address":"231332132","orderCode":"HD2023112575","__v":0}

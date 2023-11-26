@@ -1,11 +1,13 @@
 const express = require('express'); //build serever
 const mongoose = require('mongoose'); //connect db
 const bodyParser = require('body-parser'); //test postman
-const port = 3000;
+const port = 4000;
+const cors = require('cors');
 const fs = require('fs'); //node js 
 const app = express();
 
 app.use(bodyParser.json());
+app.use(cors());
 
 //connect mongoDB
 const dbConnect = async () => {
@@ -42,6 +44,7 @@ const FullContractSchema = new mongoose.Schema({
 const FullContract = mongoose.model('FullContract', FullContractSchema); //create db 
 
 module.exports = FullContract;
+
 const OrderCounterSchema = new mongoose.Schema({
     date: String, // Lưu trữ ngày dưới dạng 'YYYYMMDD'
     count: Number, // Số lượng hợp đồng trong ngày
@@ -71,7 +74,9 @@ async function generateOrderCode() {
     console.log(orderCode);
     return orderCode;
 }
+
 generateOrderCode();
+
 const logNewContract = (contract) => {
     const logMessage = `New contract added at ${new Date().toISOString()}: ${JSON.stringify(contract)}\n`;
     fs.appendFile('contract_log.txt', logMessage, (err) => {
@@ -113,7 +118,7 @@ app.post('/fullcontracts', async (req, res) => {
         const orderCode = await generateOrderCode();
         const newContract = new FullContract({
             ...req.body,
-            orderCode 
+            orderCode
         });
         await newContract.save();
         res.status(201).json(newContract);
@@ -124,8 +129,14 @@ app.post('/fullcontracts', async (req, res) => {
     }
 });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Server running on port ${port}`));
 
-//đã bán chưa bán status
-//
+//Model User
+const userSchema = new mongoose.Schema({
+    username: String,
+    password: String,
+    fullName: String,
+    role:['']
+})
+
+// const PORT = process.env.PORT || 4000;
+app.listen(port, () => console.log(`Server running on port ${port}`));
